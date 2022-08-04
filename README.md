@@ -23,8 +23,8 @@ keras<br>
 TensorFlow
 
 ## Documents
-https://205765e.github.io/G1_dm/inference.html
-https://205765e.github.io/G1_dm/learn.html
+https://205765e.github.io/G1_dm/inference.html <br>
+https://205765e.github.io/G1_dm/learn.html <br>
 https://205765e.github.io/G1_dm/test4.html
 
 ## Installation
