@@ -1,8 +1,8 @@
-#Check_fashion
+## Check_fashion
 "Check_fashion"は画像からファッションの季節を判別するプロジェクトです．
 
 
-#DEMO
+## DEMO
 精度の結果出力の例
 夏の評価
 夏：0.9 冬：0.1
@@ -10,11 +10,11 @@
 夏：0.3 冬：0.7
 
 
-#Features
+## Features
 精度判定の出力は画像一つ一つの判定割合を確認することができます．
 
 
-#Requirement
+## Requirement
 Python 3.7.6
 PIL
 glob
@@ -23,7 +23,7 @@ keras
 TensorFlow
 
 
-#Installation
+## Installation
 ---Pythonのダウンロード方法---
 以下でpyenvをダウンロードする
 brew install pyenv
@@ -46,7 +46,7 @@ pip3 install keras
 pip3 install tensorflow
 
 
-#Usage
+## Usage
 gitからtest4.py，learn.py，inference.pyをダウンロードする．
 教師データとテストデータとしてネットから夏服と冬服の画像を複数枚用意する．
 test4.pyは教師データとテストデータに前処理を加えて作成します．
@@ -58,9 +58,10 @@ pyhton learn.py
 python inference.py
 
 
-#Note
+## Note
 learn.pyは学習フェイズであり，実行に時間がかかります．
+教師データは著作権の都合により添付していません.
 
 
-#Author
+## Author
 琉球大学工学部工学科知能情報コース生4名の共同開発です．
