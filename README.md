@@ -1,6 +1,10 @@
 ## Check_fashion
 "Check_fashion"は画像からファッションの季節を判別するプロジェクトです．
 
+## Documents
+https://205765e.github.io/G1_dm/inference.html <br>
+https://205765e.github.io/G1_dm/learn.html <br>
+https://205765e.github.io/G1_dm/test4.html
 
 ## DEMO
 精度の結果出力の例<br>
@@ -22,10 +26,6 @@ numpy<br>
 keras<br>
 TensorFlow
 
-## Documents
-https://205765e.github.io/G1_dm/inference.html <br>
-https://205765e.github.io/G1_dm/learn.html <br>
-https://205765e.github.io/G1_dm/test4.html
 
 ## Installation
 - Pythonのダウンロード方法
