@@ -2,9 +2,9 @@
 "Check_fashion"は画像からファッションの季節を判別するプロジェクトです．
 
 ## Documents
-https://205765e.github.io/G1_dm/inference.html <br>
-https://205765e.github.io/G1_dm/learn.html <br>
-https://205765e.github.io/G1_dm/test4.html
+https://205765e.github.io/G1_dm/Documents/inference.html <br>
+https://205765e.github.io/G1_dm/Documents/learn.html <br>
+https://205765e.github.io/G1_dm/Documents/test4.html
 
 ## DEMO
 精度の結果出力の例<br>
