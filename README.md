@@ -22,6 +22,10 @@ numpy<br>
 keras<br>
 TensorFlow
 
+## Documents
+https://205765e.github.io/G1_dm/inference.html
+https://205765e.github.io/G1_dm/learn.html
+https://205765e.github.io/G1_dm/test4.html
 
 ## Installation
 - Pythonのダウンロード方法
